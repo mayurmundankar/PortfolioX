@@ -1,7 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Code, Palette, Brain } from 'lucide-react';
-import MayurDev from '../src/Mayur-Dev.jpg';
 
 
 
@@ -23,7 +22,7 @@ const About = () => {
               className="relative z-10"
             >
               <img
-                src={MayurDev}
+                src="/Mayur-Dev.jpg"
                 alt="Mayur Mundankar"
                 className="rounded-2xl shadow-2xl w-64 h-64 object-cover mx-auto"
               />
