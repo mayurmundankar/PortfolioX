@@ -22,7 +22,7 @@ const About = () => {
               className="relative z-10"
             >
               <img
-                src="/Mayur-Dev.jpg"
+                src="https://github.com/mayurmundankar/kasbekarenterprise/blob/main/Mayur-Dev.jpg?raw=true"
                 alt="Mayur Mundankar"
                 className="rounded-2xl shadow-2xl w-64 h-64 object-cover mx-auto"
               />
