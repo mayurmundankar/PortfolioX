@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Code, Palette, Brain } from 'lucide-react';
 
+
 const About = () => {
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
@@ -20,7 +21,7 @@ const About = () => {
               className="relative z-10"
             >
               <img
-                src="require('../src/Mayur-Dev.jpg')"
+                src={require('../src/Mayur-Dev.jpg')}
                 alt="Mayur Mundankar"
                 className="rounded-2xl shadow-2xl w-64 h-64 object-cover mx-auto"
               />
