@@ -20,7 +20,7 @@ const About = () => {
               className="relative z-10"
             >
               <img
-                src="https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=300&h=300&fit=crop"
+                src="require('../src/Mayur-Dev.jpg')"
                 alt="Mayur Mundankar"
                 className="rounded-2xl shadow-2xl w-64 h-64 object-cover mx-auto"
               />
