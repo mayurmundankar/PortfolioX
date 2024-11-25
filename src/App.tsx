@@ -49,7 +49,11 @@ function App() {
                 animate={{ opacity: 1, x: 0 }}
                 className="text-white font-bold text-xl"
               >
-                Mayur.M
+                <img
+                  src="https://raw.githubusercontent.com/mayurmundankar/Perfect-Guess-Game/main/Mayurlogo.svg"
+                  alt="Logo"
+                  className="h-10 w-auto"
+                />
               </motion.div>
               <div className="flex space-x-4">
                 <SocialLink href="mailto:mayurworkplace@gmail.com" icon={<Mail className="w-5 h-5" />} />
