@@ -39,6 +39,13 @@ const About = () => {
             >
               About Me
             </motion.h2>
+            <motion.h4
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="text-xl font-medium text-white mb-4"
+            >
+              Hey, I'm Mayur Mundankar 👋
+            </motion.h4>
             <motion.p 
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
