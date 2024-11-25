@@ -6,11 +6,11 @@ import Footer from './components/Footer';
 
 const projects = [
   {
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce platform with real-time inventory management",
-    techStack: ["React", "Node.js", "MongoDB", "Redux"],
-    github: "https://github.com/mayurmundankar/ecommerce",
-    live: "https://your-ecommerce.com"
+    title: "Color Blind Simulator",
+    description: "Simulator that processes images by applying a specific method to simulate how individuals with different types of color blindness perceive colors",
+    techStack: ["JavaScript", "Bootstrap", "HTML", "CSS"],
+    github: "https://github.com/mayurmundankar/Color-Blind-Simulator",
+    live: "https://color-blind-simulator.vercel.app"
   },
   {
     title: "AI Chat Application",
@@ -20,11 +20,11 @@ const projects = [
     live: "https://your-ai-chat.com"
   },
   {
-    title: "Task Management System",
-    description: "Collaborative task management with real-time updates",
-    techStack: ["React", "Firebase", "Tailwind CSS", "Redux"],
-    github: "https://github.com/mayurmundankar/task-manager",
-    live: "https://your-task-manager.com"
+    title: "Perfect Guess Game",
+    description: " The game challenges users to guess a randomly generated number between 1 and 100, providing real-time feedback and tracking attempts",
+    techStack: ["JavaScript", "HTML", "CSS"],
+    github: "https://github.com/mayurmundankar/Perfect-Guess-Game",
+    live: "https://perfect-guess-game.vercel.app"
   }
 ];
 
