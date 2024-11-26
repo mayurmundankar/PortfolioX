@@ -14,10 +14,10 @@ const projects = [
   },
   {
     title: "AI Chat Application",
-    description: "Real-time chat application with AI-powered responses",
-    techStack: ["Next.js", "OpenAI", "Socket.io", "TypeScript"],
-    github: "https://github.com/mayurmundankar/ai-chat",
-    live: "https://your-ai-chat.com"
+    description: "(Coming Soon)",
+    techStack: ["React.js", "OpenAI", "Socket.io", "JavaScript"],
+    github: "https://github.com/mayurmundankar",
+    live: "/"
   },
   {
     title: "Perfect Guess Game",
