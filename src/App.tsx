@@ -60,7 +60,7 @@ function App() {
                 <SocialLink href="https://github.com/mayurmundankar" icon={<Github className="w-5 h-5" />} />
                 <SocialLink href="https://linkedin.com/in/mayurmundankar" icon={<Linkedin className="w-5 h-5" />} />
                 <SocialLink href="https://mayurmundankar.framer.ai" icon={<Palette className="w-5 h-5" />} />
-                <SocialLink href="https://drive.google.com/your-resume" icon={<FileText className="w-5 h-5" />} />
+                <SocialLink href="https://drive.google.com/drive/folders/1cu1vU72H6fY8bzA-PHGZxy3VNY5sczw9?usp=sharing" icon={<FileText className="w-5 h-5" />} />
               </div>
             </div>
           </div>
