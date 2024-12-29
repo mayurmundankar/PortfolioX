@@ -56,10 +56,10 @@ function App() {
                 />
               </motion.div>
               <div className="flex space-x-4">
-                <SocialLink href="mailto:mayurworkplace@gmail.com" icon={<Mail className="w-5 h-5" />} />
+                <SocialLink href="mailto:contact@mayurmundankar.com" icon={<Mail className="w-5 h-5" />} />
                 <SocialLink href="https://github.com/mayurmundankar" icon={<Github className="w-5 h-5" />} />
                 <SocialLink href="https://linkedin.com/in/mayurmundankar" icon={<Linkedin className="w-5 h-5" />} />
-                <SocialLink href="https://mayurmundankar.framer.ai" icon={<Palette className="w-5 h-5" />} />
+                <SocialLink href="https://design.mayurmundankar.com" icon={<Palette className="w-5 h-5" />} />
                 <SocialLink href="https://drive.google.com/drive/folders/1cu1vU72H6fY8bzA-PHGZxy3VNY5sczw9?usp=sharing" icon={<FileText className="w-5 h-5" />} />
               </div>
             </div>
@@ -76,7 +76,7 @@ function App() {
               className="text-center"
             >
               <h1 className="text-4xl sm:text-6xl font-bold text-white mb-6">
-                Frontend Developer
+                Frontend Developer & Designer!
               </h1>
               <p className="text-xl text-gray-300 max-w-2xl mx-auto">
                 Passionate about creating beautiful, functional, and user-friendly applications
