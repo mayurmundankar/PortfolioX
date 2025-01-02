@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 const projects = [
   {
     title: "Company Portfolio Website",
-    description: "Created a portfolio website for a company that enhances their online visibility and establishes a strong professional presence.",
+    description: "Created a portfolio website for a Design company that enhances their online visibility and establishes a strong professional presence.",
     techStack: ["React.js", "Tailwind CSS", "JavaScript", "Material UI"],
     github: "https://github.com/mayurmundankar",
     live: "https://lumedesigns.in"
