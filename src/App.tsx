@@ -6,25 +6,25 @@ import Footer from './components/Footer';
 
 const projects = [
   {
+    title: "Company Portfolio Website",
+    description: "Created a portfolio website for a company that enhances their online visibility and establishes a strong professional presence.",
+    techStack: ["React.js", "Tailwind CSS", "JavaScript", "Material UI"],
+    github: "https://github.com/mayurmundankar",
+    live: "https://lumedesigns.in"
+  },
+  {
+    title: "AI-Based Vehicle Information & Fraud Detection System",
+    description: "Focuses on detecting vehicle number plates using AI-ML and transmitting the data to the cloud for subsequent analysis, enabling various applications.",
+    techStack: ["OCR", "YOLO Algorithm", "Raspberry Pi OS", "Supabase DB"],
+    github: "https://github.com/mayurmundankar/",
+    live: "https://beproject.mayurmundankar.com/"
+  },
+  {
     title: "Color Blind Simulator",
     description: "Simulator that processes images by applying a specific method to simulate how individuals with different types of color blindness perceive colors",
-    techStack: ["JavaScript", "Bootstrap", "HTML", "CSS"],
+    techStack: ["JavaScript", "Bootstrap", "Canvas API"],
     github: "https://github.com/mayurmundankar/Color-Blind-Simulator",
     live: "https://color-blind-simulator.vercel.app"
-  },
-  {
-    title: "AI Chat Application",
-    description: "(Coming Soon)",
-    techStack: ["React.js", "OpenAI", "Socket.io", "JavaScript"],
-    github: "https://github.com/mayurmundankar",
-    live: "/"
-  },
-  {
-    title: "Perfect Guess Game",
-    description: " The game challenges users to guess a randomly generated number between 1 and 100, providing real-time feedback and tracking attempts",
-    techStack: ["JavaScript", "HTML", "CSS"],
-    github: "https://github.com/mayurmundankar/Perfect-Guess-Game",
-    live: "https://perfect-guess-game.vercel.app"
   }
 ];
 
