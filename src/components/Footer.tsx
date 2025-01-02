@@ -11,21 +11,7 @@ const Footer = () => {
         className="max-w-7xl mx-auto text-center text-gray-400"
       >
         <p className="flex items-center justify-center gap-2">
-          Designed with 
-          <motion.span
-            animate={{ 
-              scale: [1, 1.2, 1],
-              color: ['#9333EA', '#EC4899', '#9333EA']
-            }}
-            transition={{ 
-              duration: 2,
-              repeat: Infinity,
-              ease: "easeInOut"
-            }}
-          >
-            <Heart className="w-4 h-4 fill-current" />
-          </motion.span>
-          by Mayur | 2024
+          Designed & Developed by Mayur | {new Date().getFullYear()} | All Rights Reserved
         </p>
       </motion.div>
     </footer>
